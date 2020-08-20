@@ -113,7 +113,7 @@ Built-in classifiers don't need to be trained, but you do need to confirm that t
 When the built-in classifiers don't meet your needs, you can create and train your own classifiers. There's significantly more work involved with creating your own, but they'll be much better tailored to your organizations needs. For more detail on how to use a pre-trained classifier, see [Using a built-in classifier](classifier-using-a-ready-to-use-classifier.md)
 
 > [!IMPORTANT]
-> Only the user who creates a trainable classifier can train and review predictions made by that classifier.
+> Only the user who creates a trainable classifier can train and review predictions made by that classifier during training. Once the classifier is published and used in a policy, solution admins can view items caught by the policy. 
 
 #### Process flow for creating trainable classifiers
 
